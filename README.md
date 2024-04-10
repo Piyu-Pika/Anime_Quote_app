@@ -29,3 +29,6 @@ To run the app locally, follow these steps:
 
 1. Make sure you have Flutter installed on your machine. You can download it from the official Flutter website: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
 2. Clone the repository to your local machine using the following command:
+3. Open the project in your preferred IDE, such as Android Studio or Visual Studio Code.
+4. Connect a physical device or start an emulator.
+5. Run the app using the following command:
