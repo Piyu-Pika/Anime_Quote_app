@@ -1,4 +1,4 @@
-#Anime Quotes App
+##Anime Quotes App
 
 This project is an Anime Quotes App built using Flutter that allows users to retrieve random quotes from various anime series. By clicking the “Get Quote” button, users receive a quote along with the name of the character who said it and the anime it’s from. The app fetches data from the AnimeChan API using the endpoint: https://animechan.xyz/api/random.
 
