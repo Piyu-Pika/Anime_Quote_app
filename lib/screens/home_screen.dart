@@ -67,7 +67,7 @@ class _HomeScreenState extends State<HomeScreen> {
               ElevatedButton(
                 child: const Text('Get Quote'),
                 onPressed: () async {
-                  var url = Uri.parse('https://animechan.xyz/api/random');
+                  var url = Uri.parse('https://animechan.io/api/v1/quotes/random');
                   var response = await http.get(url);
                   var data = jsonDecode(response.body);
         
